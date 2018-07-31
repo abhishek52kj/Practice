@@ -12,6 +12,10 @@ int avggk(int arr[], int n, int k)
 		cout<<arr[i]<<" ";
 	}	
 	cout<<endl;
+	while(arr[n-1]<0)
+	{
+		
+	}
 }
 
 int main()
